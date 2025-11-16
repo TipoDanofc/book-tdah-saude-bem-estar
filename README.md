@@ -15,17 +15,17 @@ Organizar tudo no GitHub como portfólio pessoal.
 
 Publicar o resultado no LinkedIn como prova de conclusão do laboratório.
 
-📂 Estrutura do Repositório
-ebook-tdah-saude-bem-estar/
-│
+## 📂 Estrutura do Repositório
+
+```
+book-tdah-saude-bem-estar/
 ├── README.md
-│
 ├── ebook/
 │   └── Ebook_TDAH_Saude_BemEstar_Completo.pdf
-│
 └── prompts/
     ├── chatgpt-prompts.md
     └── midjourney-prompts.md
+```
 
 📘 /ebook
 
