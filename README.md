@@ -40,6 +40,7 @@ Armazena todos os prompts utilizados no ChatGPT e no MidJourney.
 
 👉 [Clique aqui para baixar o eBook completo](./ebook/Ebook_TDAH_Saude_BemEstar_Completo.pdf)
 
+
 ✍️ Prompts usados no ChatGPT
 
 Arquivo completo com todos os prompts de escrita:
