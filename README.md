@@ -1,3 +1,5 @@
+![Capa do eBook](./assets/capa-ebook.png)
+
 📘 eBook – Saúde e Bem-Estar para Quem Tem TDAH
 
 Este repositório contém o eBook “Saúde e Bem-Estar para Quem Tem TDAH”, criado durante o laboratório “Criando um eBook com ChatGPT & MidJourney” da DIO
